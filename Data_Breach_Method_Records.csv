@@ -1,0 +1,22 @@
+Method,Records
+accidentally exposed,900000
+accidentally published,269822485
+accidentally uploaded,1500000
+data exposed by misconfiguration,250000000
+hacked,7240073028
+"improper setting, hacked",21457751
+inside job,76426105
+"inside job, hacked",92000000
+intentionally lost,960000
+lost / stolen computer,41397666
+lost / stolen media,170434536
+misconfiguration/poor security,100000000
+poor security,3802943028
+poor security / hacked,412214295
+poor security/inside job,5214200
+publicly accessible Amazon Web Services (AWS) server,38000000
+rogue contractor,30000
+social engineering,6054459
+unknown,447718889
+unprotected api,100000000
+unsecured S3 bucket,106000000

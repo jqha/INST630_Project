@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  position: fixed;
+  width: 50%;
+  height: 50%;
+}
+
+#top-left {
+  top: 0;
+  left: 0;
+  /*background: orange;*/
+  border-right: solid 1px;
+}
+#top-right {
+  top: 0;
+  left: 50%;
+  /*background: blue;*/
+  border-bottom: solid 1px;
+}
+#bottom-left {
+  top: 50%;
+  left: 0;
+  /*background: green;*/
+  border-top: solid 1px;
+}
+#bottom-right {
+  top: 50%;
+  left: 50%;
+  /*background: red;*/
+  border-left: solid 1px;
+}
